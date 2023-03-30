@@ -1,0 +1,8 @@
+name: Decoupled Kit Pantheon Search API
+type: module
+description: Create an Example Search Index.
+package: Custom
+core_version_requirement: ^9 || ^10
+dependencies:
+  - search_api_pantheon:search_api_pantheon
+  - jsonapi_search_api:jsonapi_search_api
